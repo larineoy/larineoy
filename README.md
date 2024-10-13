@@ -1,14 +1,14 @@
-# Hi! My name is Larine Ouyang 👋
+# Hi! My name is Larine Ouyang.
 
 I’m a high school senior passionate about **AI** and **Computer Brain Interfaces**!
 
 I love solving complex problems, whether it's through analyzing brainwave patterns to detect stress or composing music.
 
-I’m especially fascinated by **AI for healthcare** applications, particularly **EEG-based models** and how they can be used for stress detection and emotion classification. My journey into **AI**, inspired by projects like **EEG-Processing-Lib**, has helped me explore how technology can support mental health and enhance human-computer interaction. I also enjoy experimenting with **audio processing** and exploring the intersection of **AI and music**.
+I’m fascinated by **AI** applications, particularly **EEG-based models** and how they can be used for stress detection and emotion classification. My journey into **AI**, inspired by projects like **EEG-Processing-Lib**, has helped me explore how technology can support mental health and enhance human-computer interaction. I also enjoy experimenting with **audio processing** and exploring the intersection of **AI and music**.
 
 ---
 
-### Here are a few of my projects~
+### Here are a few of my projects:
 
 - **[EEG-Processing-Lib](https://github.com/larineoy/EEG-Processing-Lib)**  
   A library designed to process EEG signals efficiently, focusing on detecting abnormalities and extracting meaningful insights from complex brainwave data.
