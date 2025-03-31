@@ -6,6 +6,8 @@ I love solving complex problems, whether it's through analyzing brainwave patter
 
 I’m fascinated by **AI** applications, particularly **EEG-based models** and how they can be used for stress detection and emotion classification. My journey into **AI** has allowed me to explore topics such as neural networks and human-computer interfaces. I also enjoy experimenting with **audio processing** and exploring the intersection of **AI and music**.
 
+Lately, I’ve been delving into **Natural Language Processing**. I’ve been experimenting with transformer-based models and text embeddings, working on projects like emotion detection and analysis from text.
+
 ---
 
 ### Here are a few of my projects:
