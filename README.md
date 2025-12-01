@@ -1,12 +1,10 @@
 # Hi! My name is Larine Ouyang.
 
-I’m a high school senior passionate about **AI** and **Computer Brain Interfaces**!
+I'm a college freshman passionate about **AI** and **Brain Computer Interfaces**!
 
-I love solving complex problems, whether it's through analyzing brainwave patterns to detect stress or composing music.
+Over the past years, I've been exploring AI, delving into various neural networks and machine learning methods. I've also been working with audio processing and the intersection of AI and music, such as creating music with AI. Besides that, I've been exploring natural language processing, working with transformer-based models and retrieval augmented generation.
 
-I’m fascinated by **AI** applications, particularly **EEG-based models** and how they can be used for stress detection and emotion classification. My journey into **AI** has allowed me to explore topics such as neural networks and human-computer interfaces. I also enjoy experimenting with **audio processing** and exploring the intersection of **AI and music**.
-
-Lately, I’ve been delving into **Natural Language Processing**. I’ve been experimenting with transformer-based models and text embeddings, working on projects like emotion detection and analysis from text.
+Lately, I've been focusing on Brain Computer Interfaces and processing brainwave signals such as EEG , including general analysis of EEG and using AI to identify patterns in EEG data, such as detecting emotional states or converting EEG signals to text.
 
 ---
 
