@@ -10,14 +10,20 @@ Lately, I've been focusing on Brain Computer Interfaces and the processing of br
 
 ### Here are a few of my projects:
 
+- **[Graph-Enhanced-EEG-to-Text-Generation](https://github.com/larineoy/Graph-Enhanced-EEG-to-Text-Generation)**  
+  This project explores EEG-to-text generation using graph-enhanced deep learning architectures. It incorporates spatial electrode relationships and functional connectivity through graph-based representations to improve the text decoding from EEG signals.
+  
+- **[RAG-Indexing-Analysis](https://github.com/larineoy/EEG-Processing-Lib)**  
+  This is an analysis framework for evaluating indexing strategies in a retrieval-augmented generation (RAG) pipeline. It compares different indexing methods (tree vs non-tree) and compares their retrieval accuracy and downstream LLM performance to identify optimal configurations to be used for a real-world text corpus.
+  
 - **[EEG-Processing-Lib](https://github.com/larineoy/EEG-Processing-Lib)**  
-  A library designed to process EEG signals, focusing on spectral analysis (e.g. bandpower extraction) and spike detection as well as the loading and visualizing of EEG datas.
+  This is a library designed to process EEG signals, focusing on spectral analysis (e.g. bandpower extraction) and spike detection as well as the loading and visualizing of EEG datas.
 
 - **[EmotionClassifier](https://github.com/larineoy/EmotionClassifier)**  
-  Developed as part of the **BWSI CogWork 2024 program**, this AI model can identify emotions in speech audio, detect the speaker's gender, and classifies emotions into eight categories.
+  Developed as part of the **BWSI CogWork 2024 program**, this is an AI model that identifies emotions in speech audio, detects the speaker's gender, and classifies emotions into eight categories.
 
 - **[Facial-Recognition-Project](https://github.com/larineoy/Facial-Recognition-Project)**  
-  Also part of **BWSI CogWork 2024**, this project focuses on identifying and matching faces using facial recognition techniques to achieve accurate detection of people in images and group photos.
+  Developed as a part of **BWSI CogWork 2024 program**, this project focuses on identifying and matching faces using facial recognition techniques to achieve accurate detection of people in images and group photos.
 
 - **[K-nearest-neighbors-classifier](https://github.com/larineoy/K-nearest-neighbors-classfier)**  
   A simple but effective classifier that uses the K-nearest neighbors algorithm for pattern recognition and prediction tasks.
