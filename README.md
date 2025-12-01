@@ -4,26 +4,20 @@ I'm a college freshman passionate about **AI** and **Brain Computer Interfaces**
 
 Over the past years, I've been exploring AI, delving into various neural networks and machine learning methods. I've also been working with audio processing and the intersection of AI and music, such as creating music with AI. Besides that, I've been exploring natural language processing, working with transformer-based models and retrieval augmented generation.
 
-Lately, I've been focusing on Brain Computer Interfaces and processing brainwave signals such as EEG , including general analysis of EEG and using AI to identify patterns in EEG data, such as detecting emotional states or converting EEG signals to text.
+Lately, I've been focusing on Brain Computer Interfaces and the processing of brainwave signals such as EEG , including general analysis of EEG and using AI to identify patterns in EEG data, such as detecting emotional states or converting EEG signals to text.
 
 ---
 
 ### Here are a few of my projects:
 
 - **[EEG-Processing-Lib](https://github.com/larineoy/EEG-Processing-Lib)**  
-  A library designed to process EEG signals, focusing on plotting the EEG datas the detected abnormal spikes.
+  A library designed to process EEG signals, focusing on spectral analysis (e.g. bandpower extraction) and spike detection as well as the loading and visualizing of EEG datas.
 
 - **[EmotionClassifier](https://github.com/larineoy/EmotionClassifier)**  
   Developed as part of the **BWSI CogWork 2024 program**, this AI model can identify emotions in speech audio, detect the speaker's gender, and classifies emotions into eight categories.
 
 - **[Facial-Recognition-Project](https://github.com/larineoy/Facial-Recognition-Project)**  
   Also part of **BWSI CogWork 2024**, this project focuses on identifying and matching faces using facial recognition techniques to achieve accurate detection of people in images and group photos.
-
-- **[SleepStages-Abnormal-SpikeProb-Analysis](https://github.com/larineoy/SleepStages-Abnormal-SpikeProb-Analysis)**  
-  An analysis tool focused on detecting abnormal spikes in EEG data and calculating the spike rate for individual participants.
-
-- **[Spike Detection Visualization](https://github.com/larineoy/Spike_Detection_Visualization)**  
-  This project visualizes spike detection in EEG data, aiming to make sense of brain activity and provide useful insights into neurological conditions.
 
 - **[K-nearest-neighbors-classifier](https://github.com/larineoy/K-nearest-neighbors-classfier)**  
   A simple but effective classifier that uses the K-nearest neighbors algorithm for pattern recognition and prediction tasks.
