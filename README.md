@@ -13,7 +13,7 @@ Lately, I've been focusing on Brain Computer Interfaces and the processing of br
 - **[Graph-Enhanced-EEG-to-Text-Generation](https://github.com/larineoy/Graph-Enhanced-EEG-to-Text-Generation)**  
   This project explores EEG-to-text generation using graph-enhanced deep learning architectures. It incorporates spatial electrode relationships and functional connectivity through graph-based representations to improve the text decoding from EEG signals.
   
-- **[Untangled](https://github.com/wasihussain914/untangled)**
+- **[Untangled](https://github.com/wasihussain914/untangled)**<br>
   An AI-powered tutor that reads handwritten work on a whiteboard and identifies where reasoning first goes wrong. It provides progressive hints and voice feedback to help students correct mistakes as they solve problems. 🏆1st Place — Best Software @ Cornell University BigRed//Hacks 2026
 
 - **[RAG-Indexing-Analysis](https://github.com/larineoy/EEG-Processing-Lib)**  
